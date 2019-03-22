@@ -1,2 +1,4 @@
 # JavaSwing2
-JavaSwing2
+
+More cool JavaSwing samples
+
