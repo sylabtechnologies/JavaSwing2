@@ -1,4 +1,4 @@
-/**
+/** is it all about mapping?
  * 1. develop JComponent
  * 2. draw message w/ random colors
  * 3. implement the speficif listeners
