@@ -3,7 +3,7 @@
  * 2. draw message w/ random colors
  * 3. implement the speficif listeners
  * 4. use flow layout
- * 
+ * 5. is it correct call back registration?
  */
 
 package hellojava3;
